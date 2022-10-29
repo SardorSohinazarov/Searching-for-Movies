@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Assalomu Alaykum\\Desktop\\AbbosBilan\\Updeted Movies\\Movies\\Movies.csproj",
+      "projectUniqueName": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\Movies.csproj",
       "projectName": "Movies",
-      "projectPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\AbbosBilan\\Updeted Movies\\Movies\\Movies.csproj",
+      "projectPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\Movies.csproj",
       "packagesPath": "C:\\Users\\Assalomu Alaykum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\AbbosBilan\\Updeted Movies\\Movies\\obj\\",
+      "outputPath": "C:\\Users\\Assalomu Alaykum\\Desktop\\testuchun\\Searching-for-Movies\\Searching\\Movies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Assalomu Alaykum\\AppData\\Roaming\\NuGet\\NuGet.Config",

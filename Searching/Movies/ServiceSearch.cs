@@ -38,7 +38,6 @@ public class ServiceSearch
 
         var clientString = response.Content.ReadAsStringAsync().Result;
 
-        //var searchinglist = JsonSerializer.Deserialize<ResponseSeachClass>(clientString);
         var searchinglist = JsonConvert.DeserializeObject<ResponseSeachClass>(clientString);
 
         if (searchinglist.Search == null)
@@ -57,7 +56,7 @@ public class ServiceSearch
                     Console.WriteLine($" |>  {moveaTitles[i].Title}");
                 else
                     Console.WriteLine($"   {moveaTitles[i].Title}");
-                id = moveaTitles[i].imdbID;
+                id = moveaTitles[qator-1].imdbID;
             }
             if (pagenumber == 1)
                 Console.WriteLine($"\npages: <<( {pagenumber} )>> {pagenumber + 1}> ..{int.Parse(searchinglist.totalResults) / 10+1}              total searching results:{searchinglist.totalResults}");
